@@ -1,3 +1,5 @@
+This is the code for my [Twitch streams](https://www.twitch.tv/samjulien) on the [Auth0 React QuickStart](https://auth0.com/docs/quickstart/spa/react/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
