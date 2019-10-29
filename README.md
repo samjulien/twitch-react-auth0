@@ -1,5 +1,12 @@
 This is the code for my [Twitch streams](https://www.twitch.tv/samjulien) on the [Auth0 React QuickStart](https://auth0.com/docs/quickstart/spa/react/).
 
+Other links you might find useful:
+
+- [`auth0-spa-js` API docs](https://auth0.github.io/auth0-spa-js/index.html)
+- [Announcing `auth0-spa0-js`](https://auth0.com/blog/introducing-auth0-single-page-apps-spa-js-sdk/) (includes a section on when to use the new SDK vs `auth0.js`
+- [`use-auth0-hooks`](https://github.com/sandrinodimattia/use-auth0-hooks) (not-yet-official extraction of the context/hooks wrapper we write in the streams)
+- Reach out on [Twitter](https://twitter.com/samjulien) if you've got questions or ideas for future streams
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
